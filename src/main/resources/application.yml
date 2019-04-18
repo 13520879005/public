@@ -1,0 +1,5 @@
+#jsp模板
+#spring.mvc.view.prefix: /WEB-INF/jsp/
+#spring.mvc.view.suffix: .jsp
+#thymeleaf模板
+spring.thymeleaf.cache: false
